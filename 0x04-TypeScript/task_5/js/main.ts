@@ -31,7 +31,7 @@ function sumMinorCredits(
     brand: 'minor',  // keep the brand consistent
   };
 }
-
+// tying to see
 // Example usage:
 
 // const major1: MajorCredits = { credits: 10, brand: 'major' };
